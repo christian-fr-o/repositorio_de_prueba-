@@ -1,2 +1,3 @@
 # Proyecto de prueba de GIT
-esto es una simple prueba de git
+
+esto lo edito como fork para hacer un pull request
